@@ -9,6 +9,6 @@ del instructor Pablo Tilotta
 
 ## Caracteristicas
 
-- [ ] Se trabajo el desarrollo con go1.21.2
+- [ ] Se ha trabajado el desarrollo con go1.21.2
 - [ ] Se ha usado como editor Visual Studio Code
-- [ ] Se actualizara conforme se avance en esta segunda parte del curso
+- [ ] Se actualizará conforme se avance en esta segunda parte del curso
