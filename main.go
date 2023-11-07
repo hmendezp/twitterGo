@@ -8,10 +8,10 @@ import (
 	"github.com/aws/aws-lambda-go/events"
 	lambda "github.com/aws/aws-lambda-go/lambda"
 	"github.com/hmendezp/twitterGo/awsgo"
+	"github.com/hmendezp/twitterGo/bd"
 	"github.com/hmendezp/twitterGo/handlers"
 	"github.com/hmendezp/twitterGo/models"
 	"github.com/hmendezp/twitterGo/secretmanager"
-	"github.com/ptilotta/twitterGo/bd"
 )
 
 func main() {
